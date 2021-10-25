@@ -4,7 +4,7 @@ The country is determined via the IP address or static input (in the source code
 
 ![Visits Badge](https://badges.pufler.dev/visits/wickenico/country-information.js)
 
-![exchangesRatesWidget](img/countryInformation.png)
+![exchangesRatesWidget](img/country-information-widget.png)
 
 <p>
    <a href="#description">Setup</a> • 
