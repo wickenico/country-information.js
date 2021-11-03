@@ -12,7 +12,7 @@ The country is determined via the IP address or static input (in the source code
    <a href="#usage">Usage</a> •
    <a href="#links">Links</a> •
    <a href="#contribution">Contribution</a> •
-   <a href="#roadmap">ROADMAP</a> •
+   <a href="#roadmap">Roadmap</a> •
  </p>
 
 ## Description
