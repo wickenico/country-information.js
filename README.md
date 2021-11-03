@@ -1,6 +1,6 @@
 # country-information.js
 A Scriptable widget that shows different informations about a country. 
-The country is determined via the IP address or static input (in the source code line 13).
+The country is determined via the IP address or static input.
 
 ![Visits Badge](https://badges.pufler.dev/visits/wickenico/country-information.js)
 
